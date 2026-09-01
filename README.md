@@ -4,25 +4,27 @@
 </h1>
 
 <h3 align="center">
-🚀 Desenvolvedor em formação | Full Stack | JavaScript • Python • C • PHP • IA
+🚀 Desenvolvedor em formação | Full Stack | IA | Cybersegurança | Vibe Coding
 </h3>
 
 <div align="center">
   <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 </div>
 
+<br>
+
 <div align="center">
 
   <a href="https://www.linkedin.com/in/mauriciosteixeira/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
   <a href="https://www.youtube.com/channel/UCGttZI53ppzrYPMR5ixfjrA" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 
   <a href="https://github.com/MauricioZavarce" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 
 </div>
@@ -31,11 +33,11 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+# 👨‍💻 Sobre mim
 
-Sou **Maurício Zavarce**, estudante e desenvolvedor em formação, apaixonado por tecnologia, programação e pela criação de soluções que possam transformar ideias em projetos reais.
+Sou **Maurício Zavarce**, estudante e desenvolvedor em formação, apaixonado por tecnologia, programação e pela criação de soluções que transformam ideias em projetos reais.
 
-🎯 Atualmente estou construindo minha jornada como **Desenvolvedor Full Stack**, estudando tecnologias para desenvolvimento web, banco de dados, programação e inteligência artificial.
+🎯 Estou construindo minha jornada como **Desenvolvedor Full Stack**, explorando desenvolvimento web, programação, bancos de dados, inteligência artificial e cybersegurança.
 
 💻 Tenho foco no aprendizado e desenvolvimento com:
 
@@ -48,8 +50,11 @@ Sou **Maurício Zavarce**, estudante e desenvolvedor em formação, apaixonado p
 * 🗄️ **SQL**
 * 🍃 **MongoDB**
 * 🤖 **Inteligência Artificial**
+* 🛡️ **Cybersegurança**
+* 🐉 **Kali Linux**
+* ⚡🤖 **Vibe Coding**
 
-📚 Estou sempre estudando e evoluindo, desenvolvendo projetos para fortalecer meus conhecimentos e construir meu portfólio como desenvolvedor.
+📚 Estou sempre estudando, criando projetos e fortalecendo meu portfólio através da prática.
 
 > **"Transformando café ☕, código 💻 e ideias 💡 em projetos."**
 
@@ -61,42 +66,51 @@ Sou **Maurício Zavarce**, estudante e desenvolvedor em formação, apaixonado p
 
 ### 🌐 Front-End
 
-<img align="center" alt="JavaScript" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="center" alt="HTML5" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="center" alt="CSS3" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="center" alt="React" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="center" alt="JavaScript" title="JavaScript" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="center" alt="HTML5" title="HTML5" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="center" alt="CSS3" title="CSS3" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="center" alt="React.js" title="React.js" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 
 <br><br>
 
 ### ⚙️ Back-End e Linguagens
 
-<img align="center" alt="Python" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="center" alt="C" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img align="center" alt="PHP" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-<img align="center" alt="NodeJS" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<img align="center" alt="Python" title="Python" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="center" alt="C" title="Linguagem C" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img align="center" alt="PHP" title="PHP" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+<img align="center" alt="Node.js" title="Node.js" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 
 <br><br>
 
 ### 🗄️ Banco de Dados
 
-<img align="center" alt="SQL" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img align="center" alt="MongoDB" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+<img align="center" alt="SQL / MySQL" title="SQL / MySQL" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img align="center" alt="MongoDB" title="MongoDB" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 
 <br><br>
 
-### 🤖 Inteligência Artificial
+### 🤖 Inteligência Artificial e Vibe Coding
 
-<img align="center" alt="Python AI" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="center" alt="Jupyter" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
+<img align="center" alt="Python" title="Python para IA" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="center" alt="Jupyter" title="Jupyter Notebook" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
+<img align="center" alt="Vibe Coding" title="Vibe Coding - Desenvolvimento assistido por IA" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubcopilot/githubcopilot-original.svg"/>
+
+<br><br>
+
+### 🛡️ Cybersegurança
+
+<img align="center" alt="Kali Linux" title="Kali Linux" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg"/>
+<img align="center" alt="Linux" title="Linux" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img align="center" alt="Bash" title="Bash / Terminal" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
 
 <br><br>
 
 ### 🧰 Ferramentas
 
-<img align="center" alt="Git" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="center" alt="GitHub" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<img align="center" alt="VS Code" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-<img align="center" alt="Linux" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img align="center" alt="Git" title="Git" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="center" alt="GitHub" title="GitHub" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img align="center" alt="VS Code" title="Visual Studio Code" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<img align="center" alt="Linux" title="Linux" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 
 </div>
 
@@ -106,13 +120,17 @@ Sou **Maurício Zavarce**, estudante e desenvolvedor em formação, apaixonado p
 
 <div align="center">
 
-💻 Desenvolvimento **Front-End e Back-End**
+💻 **Desenvolvimento Front-End e Back-End**
 
-🐍 **Python e Programação**
+⚡ **JavaScript e Desenvolvimento Web**
 
-⚡ **JavaScript e desenvolvimento Web**
+🐍 **Python e Lógica de Programação**
 
-🔵 **Linguagem C e lógica de programação**
+🔵 **Linguagem C**
+
+🐘 **PHP e Node.js**
+
+⚛️ **React.js e aplicações modernas**
 
 🗄️ **SQL e Banco de Dados**
 
@@ -120,7 +138,11 @@ Sou **Maurício Zavarce**, estudante e desenvolvedor em formação, apaixonado p
 
 🤖 **Inteligência Artificial e tecnologias emergentes**
 
-⚛️ **React.js e aplicações modernas**
+⚡🤖 **Vibe Coding e desenvolvimento assistido por IA**
+
+🛡️ **Fundamentos de Cybersegurança**
+
+🐉 **Kali Linux, Linux e ferramentas de segurança**
 
 </div>
 
@@ -132,9 +154,9 @@ Sou **Maurício Zavarce**, estudante e desenvolvedor em formação, apaixonado p
 
 <a href="https://github.com/MauricioZavarce">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MauricioZavarce&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MauricioZavarce&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioZavarce&layout=compact&langs_count=8&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioZavarce&layout=compact&langs_count=10&theme=dracula&hide_border=true"/>
 
 </a>
 
@@ -142,13 +164,31 @@ Sou **Maurício Zavarce**, estudante e desenvolvedor em formação, apaixonado p
 
 <br>
 
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=MauricioZavarce&theme=dracula&hide_border=true&locale=pt_BR" alt="GitHub Streak"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MauricioZavarce&theme=dracula&hide_border=true&area=true" alt="Gráfico de atividades do GitHub"/>
+
+</div>
+
 ---
 
-# 🚀 Objetivo
+# 🚀 Meu objetivo
 
 Meu objetivo é evoluir constantemente como desenvolvedor, construir projetos reais, contribuir com a comunidade e transformar conhecimento em soluções.
 
-Estou desenvolvendo minhas habilidades em **Desenvolvimento Web, Back-End, Banco de Dados e Inteligência Artificial**, sempre buscando aprender novas tecnologias e desafios.
+Atualmente estou expandindo meus conhecimentos em:
+
+**Desenvolvimento Web • Back-End • Banco de Dados • Inteligência Artificial • Cybersegurança • Kali Linux • Vibe Coding**
+
+Sempre buscando novos desafios, aprendendo na prática e construindo projetos que representem minha evolução como desenvolvedor.
 
 ### 💡 "Todo especialista um dia foi iniciante."
 
@@ -156,7 +196,7 @@ Estou desenvolvendo minhas habilidades em **Desenvolvimento Web, Back-End, Banco
 
 <div align="center">
 
-### 🚀 Vamos construir algo incrível juntos!
+### 🚀 Code. Create. Learn. Repeat.
 
 <img src="https://komarev.com/ghpvc/?username=MauricioZavarce&color=blueviolet&style=for-the-badge&label=VISITAS+NO+PERFIL"/>
 
