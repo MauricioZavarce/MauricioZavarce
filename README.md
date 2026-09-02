@@ -93,7 +93,7 @@ Sou **Maurício Zavarce**, estudante e desenvolvedor em formação, apaixonado p
 
 <img align="center" alt="Python" title="Python para IA" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="center" alt="Jupyter" title="Jupyter Notebook" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
-<img align="center" alt="Vibe Coding" title="Vibe Coding - Desenvolvimento assistido por IA" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubcopilot/githubcopilot-original.svg"/>
+<img align="center" alt="Vibe Coding" title="Vibe Coding - Desenvolvimento assistido por IA" height="55" width="65" src="https://explore-feed.github.com/topics/vibe-coding/vibe-coding.png"/>
 
 <br><br>
 
