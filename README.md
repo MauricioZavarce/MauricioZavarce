@@ -152,12 +152,6 @@ Sou **Maurício Zavarce**, estudante e desenvolvedor em formação, apaixonado p
 
 <div align="center">
 
-<a href="https://github.com/MauricioZavarce">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioZavarce&layout=compact&langs_count=10&theme=dracula&hide_border=true"/>
-
-</a>
-
 </div>
 
 <br>
