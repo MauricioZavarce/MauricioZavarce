@@ -118,13 +118,11 @@ Tenho interesse especial em:
 
 <div align="center">
 
-<a href="https://github.com/MauricioZavarce">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MauricioZavarce&repo=cc50-estudos&theme=dracula&hide_border=true" />
-</a>
-
-<a href="https://github.com/MauricioZavarce">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MauricioZavarce&repo=WebDev-FAT2026&theme=dracula&hide_border=true" />
-</a>
+- **[netflix-clone-MZ-DIO](https://github.com/MauricioZavarce/netflix-clone-MZ-DIO)** — recriação da interface do Netflix, foco em HTML/CSS responsivo
+- **[GITHUB-API-INTERFACE-MZ](https://github.com/MauricioZavarce/GITHUB-API-INTERFACE-MZ)** — front-end componentizado com React.js
+- **[pcRamUsage](https://github.com/MauricioZavarce/pcRamUsage)** — visualizador de uso de memória RAM, em Node.js
+- **[auto-video-editor](https://github.com/MauricioZavarce/auto-video-editor)** — aplicativo desktop em Python (PySide6, FFmpeg, Auto-Editor)
+---
 
 </div>
 
@@ -174,9 +172,7 @@ Tenho interesse especial em:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MauricioZavarce&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioZavarce&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=MauricioZavarce&theme=dracula&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
 </div>
 
